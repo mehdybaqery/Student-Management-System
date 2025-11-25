@@ -1,0 +1,8 @@
+﻿{
+    "app_name": "سیستم مدیریت دانشجویان",
+    "version": "1.0.0",
+    "data_file": "students_data.json",
+    "default_theme": "light",
+    "window_width": 800,
+    "window_height": 700
+}
